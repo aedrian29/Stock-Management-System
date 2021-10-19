@@ -18,7 +18,7 @@ myscrift.js           - Javascript Functions
 stockpriceupdate.php  - Price and Stock query 
 bootstrap.min.css     - CSS
 
-Go to your browser and go to this link: http://127.0.0.1/sms/
+Go to your browser and go to this link: http://127.0.0.1/Stock-Management-System-main/
 
 
 Time 
