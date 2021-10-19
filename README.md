@@ -6,8 +6,8 @@ Create database : "sms"
 Export sms.sql
 
 Directory Structure
--------------------
 Move the project on your local C:\\xamp\htdocs\
+
 index.php             - Main Page.
 dbconnec.php          - Database Connections
 addProduct.php        - Add Product query.
