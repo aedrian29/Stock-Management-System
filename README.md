@@ -15,5 +15,6 @@ delete.php            - Delete Product query
 sell.php              - Sell Product Form.
 sms.sql                -  Database.
 myscrift.js           - Javascript Functions
+stockpriceupdate.php  - Price and Stock query 
 
 Go to your browser and go to this link: http://127.0.0.1/sms/
