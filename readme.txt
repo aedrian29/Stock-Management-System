@@ -19,3 +19,13 @@ stockpriceupdate.php  - Price and Stock query
 bootstrap.min.css     - CSS
 
 Go to your browser and go to this link: http://127.0.0.1/sms/
+
+Time 
+3 hours
+20 minutes - Database
+20 minutes - Display Product,Price and Stock
+20 minutes - Add, Delete, Update Product
+30 minutes - Product Sale
+30 minutes - Validation
+15 minutes - CSS
+15 minutes - Checking of bugs
